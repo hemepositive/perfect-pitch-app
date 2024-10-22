@@ -1,0 +1,7 @@
+set duration shorter for more challenge
+hid choices until after play
+hide button after one or two plays
+chords
+pick 1,3,5
+
+! play the clicked wrong answer
