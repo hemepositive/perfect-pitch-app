@@ -1,2 +1,4 @@
 # perfect-pitch-app
-Created with CodeSandbox
+
+An app that will only appeal to 1 in 10,000 people
+Initially created with Codesandbox
